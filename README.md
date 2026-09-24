@@ -12,7 +12,7 @@
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=440&height=280&lines=root%40blaqguest%3A~%24+whoami;%3E+C1rcu1t+%2F%2F+Polycarp+Mulu;%3E+role%3A+security+engineer;%3E+focus%3A+vuln+research+%7C+red+team;%3E+status%3A+hunting+0-days...;%3E+scope%3A+authorized+targets+only;%3E+access%3A+granted_" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=440&height=280&lines=root%40blaqguest%3A~%24+whoami;%3E+C1rcu1t+%2F%2F+Qu35t;%3E+role%3A+security+engineer;%3E+focus%3A+vuln+research+%7C+red+team;%3E+status%3A+hunting+0-days...;%3E+scope%3A+authorized+targets+only;%3E+access%3A+granted_" alt="Typing SVG" />
       </a>
     </td>
   </tr>

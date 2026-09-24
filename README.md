@@ -1,14 +1,26 @@
 <h1 align="center">⚔️ C1rcu1t⤬</h1>
-<h3 align="center">"There Is No Secure System"
-  Cybersecurity Engineer • Security Researcher • Red Team Engineer</h3>
+<h3 align="center">Cybersecurity Engineer • Security Researcher • Red Team Engineer</h3>
 
 <p align="center">
-  <img alt="hacking" width="400" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
-</p>
-
-<p align="left">
   <img src="https://komarev.com/ghpvc/?username=C1rcu1t-X&label=Profile%20views&color=0e75b6&style=flat" alt="C1rcu1t-X" />
 </p>
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/minato.gif" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/DenverCoder1/readme-typing-svg">
+        <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=440&height=280&lines=root%40blaqguest%3A~%24+whoami;%3E+C1rcu1t+%2F%2F+Polycarp+Mulu;%3E+role%3A+security+engineer;%3E+focus%3A+vuln+research+%7C+red+team;%3E+status%3A+hunting+0-days...;%3E+scope%3A+authorized+targets+only;%3E+access%3A+granted_" alt="Typing SVG" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<blockquote align="center">
+  <b>"A lock only keeps an honest man out."</b>
+</blockquote>
 
 Break it. Understand it. Build it. Secure it.
 
@@ -20,7 +32,7 @@ I look at systems the way an attacker would, then rebuild that understanding int
 
 💬 Ask me about Penetration Testing || Reverse Engineering || Binary Exploitation || Malware Research || Firmware Analysis || Hardware Security || Vulnerability Research || Zero-Day & N-Day Research
 
-⚡ Fun fact I follow a build-before-break approach — I'd rather construct a system myself before I try to take it apart.
+⚡ Fun fact: I follow a build-before-break approach — I'd rather construct a system myself before I try to take it apart.
 
 Research Methodology
 
@@ -70,7 +82,7 @@ Research Areas
 
 <table width="100%">
   <tr align="center">
-    <td><a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://portswigger.net/content/images/logos/logo.svg" alt="Burp Suite" width="45" height="45"/></a></td>
+    <td><a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite" height="45"/></a></td>
     <td><a href="https://nmap.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Nmap-logo.svg" alt="Nmap" width="45" height="45"/></a></td>
     <td><a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/metasploit.svg" alt="Metasploit" width="45" height="45"/></a></td>
     <td><a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" alt="Wireshark" width="45" height="45"/></a></td>
@@ -96,8 +108,8 @@ Research Areas
     <td><a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/></a></td>
     <td><a href="https://www.kicad.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kicad/kicad-original.svg" alt="KiCad" width="45" height="45"/></a></td>
     <td><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="45" height="45"/></a></td>
-    <td><a href="https://chipwhisperer.com/" target="_blank" rel="noreferrer"><img src="https://chipwhisperer.com/favicon.ico" alt="ChipWhisperer" width="45" height="45"/></a></td>
-    <td><a href="https://www.rtl-sdr.com/" target="_blank" rel="noreferrer"><img src="https://www.rtl-sdr.com/wp-content/uploads/2014/02/rtlsdr_logo.png" alt="RTL-SDR" width="45" height="45"/></a></td>
+    <td><a href="https://chipwhisperer.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ChipWhisperer-4B0082?style=for-the-badge" alt="ChipWhisperer" height="45"/></a></td>
+    <td><a href="https://www.rtl-sdr.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/RTL--SDR-00A86B?style=for-the-badge" alt="RTL-SDR" height="45"/></a></td>
   </tr>
 </table>
 
